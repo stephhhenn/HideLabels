@@ -5,7 +5,7 @@
 @end
 
 -(void)setLabelHidden:(BOOL)arg1 {
-    self.labelHidden = TRUE;
+    %orig(TRUE);
     
 }
 
